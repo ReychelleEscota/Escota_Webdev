@@ -74,7 +74,7 @@ header {
 
 /* ------------ banner ------------ */
 section {
-    background-image: url(assets/images/landscape.png);
+    background-image: url(./images/landscape.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
