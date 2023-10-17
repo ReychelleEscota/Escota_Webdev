@@ -955,7 +955,7 @@ iframe {
 
 /* --------- about -------------- */
 .about-container{
-    background-image: url(assets/images/landscape2.png);
+    background-image: url("https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/391638401_2338984389604916_4801373241057294446_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEITHlpHVqWiqyqznk9kWqUGelrFMw3k2EZ6WsUzDeTYZNxYoPjG96XHpIMeYSzI1B07qGotFH6Nb1o0cZ1XIlR&_nc_ohc=816Hg7hT78sAX9jL-B7&_nc_ht=scontent.fceb6-1.fna&oh=00_AfAR2KQWgX8C358owxf98NdsG-Kv1pB3RDA1-ZxK5xvcEQ&oe=6533D27C");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
